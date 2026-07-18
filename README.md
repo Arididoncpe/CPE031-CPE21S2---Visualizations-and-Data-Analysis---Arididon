@@ -9,7 +9,8 @@
 
 | Information | Details |
 |-------------|---------|
-| **Name** | Gabriel Arididon |
+| **Name** | Gabriel Dwyane D. Arididon |
+| **Section** | CPE21S2 |
 | **Course** | Bachelor of Science in Computer Engineering |
 | **Subject** | CPE 031 - Data Visualization & Analysis |
 | **Institution** | Technological Institute of the Philippines - Quezon City |
